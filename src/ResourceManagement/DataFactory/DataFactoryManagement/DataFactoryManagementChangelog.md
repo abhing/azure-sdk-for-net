@@ -10,6 +10,18 @@ Release date:
     * MaxCloudDataMovementUnits
 
 ## Version
+Release date:
+
+### Feature Additions
+
+* The following linked service types have been added: 
+    * WebLinkedService
+* The following dataset types have been added: 
+    * WebTableDataset
+* The following copy source types have been added: 	
+    * WebSource
+
+## Version
 _Release date:_ 
 
 ### Feature Additions
@@ -25,7 +37,7 @@ Release date: 2016.01.28
     * AzureStorageSasLinkedService
 
 ## Version 4.3.0
-Release date: 2015.11.25
+Release date: 2016.01.20
 
 ### Feature Additions
 
