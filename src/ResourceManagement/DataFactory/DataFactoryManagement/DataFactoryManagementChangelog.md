@@ -9,6 +9,13 @@ Release date:
     * MaxConcurrentSessions
     * MaxCloudDataMovementUnits
 
+## Version
+_Release date:_ 
+
+### Feature Additions
+
+* Added new StorageFormat type JsonFormat type to define datasets whose data is in JSON format. 
+
 ## Version 4.4.0
 Release date: 2016.01.28
 
